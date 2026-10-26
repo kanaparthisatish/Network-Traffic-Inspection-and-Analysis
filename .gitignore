@@ -1,0 +1,9 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large raw captures can contain sensitive traffic; review before adding.
+*.pcap
+*.pcapng
